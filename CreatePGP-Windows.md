@@ -6,6 +6,8 @@ https://www.gnupg.org/index.html
 Download the Windows installer here (W10 and 11 x64 compatible at time of writing):
 https://gpg4win.org/download.html
 
+![alt text](https://github.com/SH4MR0CK-exe/Privacy/blob/main/pictures/pgp_sop1.jpg)
+
 <ol>
   <li>Install GnuPGwin with defaults, or customize, I don't give a shit.</li>
   <li>Once finished, run from Start Menu or "C:\Program Files (x86)\Gpg4win\bin\kleopatra.exe"</li>
