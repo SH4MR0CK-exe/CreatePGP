@@ -19,7 +19,7 @@ https://gpg4win.org/download.html
 ![alt text](https://github.com/SH4MR0CK-exe/Privacy/blob/main/pictures/pgp_sop2.jpg)
   
   <li>Select "OK" and wait for your computer to do some maths n' shit.</li>
-  <li>Righ click the newly generated cert > Select "Export" to get a copy of your <i>public</i> key > Share with recipients you whish to decrypt your messages. Backing up your <i>secret</i> key will remove the password protection, so don't fuck around</li></br>
+  <li>Righ click the newly generated cert > Select "Export" to get a copy of your <i>public</i> key > Share with recipients you whish to decrypt your messages. Backing up your <i>private</i> key will remove the password protection, so don't fuck around</li></br>
   
 ![alt text](https://github.com/SH4MR0CK-exe/Privacy/blob/main/pictures/pgp_sop3.jpg)
   
